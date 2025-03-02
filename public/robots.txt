@@ -1,0 +1,10 @@
+# robots.txt pour Super Serrurier
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://super-serrurier.fr/sitemap.xml
+
+# Interdire l'accès aux fichiers sensibles
+Disallow: /_next/
+Disallow: /api/
