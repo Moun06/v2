@@ -33,6 +33,11 @@ export const metadata: Metadata = {
     description: 'Serrurier en urgence à Nice ? Intervention rapide en moins de 15 min pour ouverture de porte, changement de serrure et installation de porte blindée. Contactez-nous 24h/24 et 7j/7 au 06 99 06 06 99 !',
     images: ['https://pub-237d2da54b564d23aaa1c3826e1d4e65.r2.dev/Super-Serrurier.png'],
   },
+  icons: {
+    icon: 'https://pub-237d2da54b564d23aaa1c3826e1d4e65.r2.dev/superserrurier/favicon.ico',
+    shortcut: 'https://pub-237d2da54b564d23aaa1c3826e1d4e65.r2.dev/superserrurier/favicon.ico',
+    apple: 'https://pub-237d2da54b564d23aaa1c3826e1d4e65.r2.dev/superserrurier/favicon.ico',
+  },
 };
 
 export default function RootLayout({
@@ -44,6 +49,9 @@ export default function RootLayout({
     <html lang="fr">
       <head>
         <link rel="canonical" href="https://super-serrurier.fr" />
+        <link rel="icon" href="https://pub-237d2da54b564d23aaa1c3826e1d4e65.r2.dev/superserrurier/favicon.ico" />
+        <link rel="shortcut icon" href="https://pub-237d2da54b564d23aaa1c3826e1d4e65.r2.dev/superserrurier/favicon.ico" />
+        <link rel="apple-touch-icon" href="https://pub-237d2da54b564d23aaa1c3826e1d4e65.r2.dev/superserrurier/favicon.ico" />
       </head>
       <body className={`${inter.className} bg-black text-white`}>
         <GoogleAnalytics />
