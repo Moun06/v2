@@ -30,7 +30,7 @@ const Navbar = () => {
           <div className="flex-shrink-0">
             <Link href="/" className="flex items-center">
               <Image 
-                src="https://pub-237d2da54b564d23aaa1c3826e1d4e65.r2.dev/Super-Serrurier.png" 
+                src="https://pub-237d2da54b564d23aaa1c3826e1d4e65.r2.dev/superserrurier/Super-Serrurier.png" 
                 alt="Super Serrurier Logo" 
                 width={180} 
                 height={50} 
