@@ -17,7 +17,7 @@ const HeroSection = () => {
     <section className="relative h-[650px] flex items-center justify-center overflow-hidden">
       <div className="absolute inset-0 z-0">
         <Image
-          src="https://pub-237d2da54b564d23aaa1c3826e1d4e65.r2.dev/slide1-Super_Serrurier.webp"
+          src="https://pub-237d2da54b564d23aaa1c3826e1d4e65.r2.dev/superserrurier/slide1-Super_Serrurier.webp"
           alt="Serrurier professionnel ouvrant une porte à Nice"
           fill
           priority
