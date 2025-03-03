@@ -80,7 +80,7 @@ const FooterSection = () => {
           >
             <Link href="/" className="inline-block mb-6">
               <Image 
-                src="https://pub-237d2da54b564d23aaa1c3826e1d4e65.r2.dev/Super-Serrurier.png" 
+                src="https://pub-237d2da54b564d23aaa1c3826e1d4e65.r2.dev/superserrurier/Super-Serrurier.png" 
                 alt="Super Serrurier Logo" 
                 width={180} 
                 height={50} 
